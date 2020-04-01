@@ -1,6 +1,6 @@
 # MKS SERVO57B
 ## Features
-Based on the open project of nano_stepper by Misfittech:[https://github.com/Misfittech/nano_stepper](http:://github.com/Misfittech/nano_stepper "https://github.com/Misfittech/nano_stepper").
+Based on the open project of nano_stepper by [Misfittech](https://github.com/Misfittech/nano_stepper)(http:://github.com/Misfittech/nano_stepper "https://github.com/Misfittech/nano_stepper").
 
 To improve performance, Makerbase Team has made the following changes:
 
